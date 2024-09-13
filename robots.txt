@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arlvue.github.io/xQc/sitemap.xQc.gz
